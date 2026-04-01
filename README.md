@@ -11,7 +11,8 @@
 Архитектура: MVVM (Model-View-ViewModel) — для четкого разделения логики и интерфейса.
 UI: Jetpack Compose — декларативный подход к созданию элементов управления.
 Сеть: Retrofit + OkHttp — для эффективной обработки HTTP-запросов.
-Данные: JSON Parsing (Gson/Kotlinx Serialization).
+![1000034278](https://github.com/user-attachments/assets/4c547893-29a5-461a-8590-ec64b35c03b2)
+
 📦 Сборка и установка
 клонируйте репозиторий 
 git clone https://github.com/WoodySys/WeatherAppArs.git
